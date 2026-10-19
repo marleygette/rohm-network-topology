@@ -10,7 +10,7 @@ An animated 3D visualization of a Cisco Packet Tracer hybrid network, built with
 ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-d6101f?style=for-the-badge)
 
-**[Live Demo](https://marleygette.github.io/rohm-network-topology-3d/)** · **[Report a Bug](../../issues)**
+**[Live Demo](https://marleygette.github.io/rohm-network-topology/)** · **[Report a Bug](../../issues)**
 
 </div>
 
@@ -52,7 +52,7 @@ This project turns the `MARGARETTE.pkt` Packet Tracer file into a 3D scene you c
 No build step. Open `index.html` in any modern browser.
 
 ```bash
-git clone https://github.com/marleygette/rohm-network-topology-3d.git
+git clone https://marleygette.github.io/rohm-network-topology/
 cd rohm-network-topology-3d
 # open index.html
 ```
